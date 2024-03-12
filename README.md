@@ -37,8 +37,8 @@
 <br/>
 
 <a href="https://github.com/banditklm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banditklm&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banditklm&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banditklm&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banditklm&theme=synthwave&layout=compact" />
 </a>
 
 <br/>
@@ -48,5 +48,6 @@
 <p>
 <a href="https://github.com/banditklm" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kaltoum-elmounjid-a67a2a1b5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/Kitu07098791" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-333333?style=flat-square&logo=x"></a>
 <a href="mailto:kaltoum.elmounjid123@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaltoum.elmounjid123@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
