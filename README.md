@@ -2,7 +2,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/kelmounj" alt="kelmounj's 42 stats" /></a>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
