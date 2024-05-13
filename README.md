@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Kaltoum Elmounjid currently a 42 Network student (1337 Khouribga campus)</h2>
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/kelmounj" alt="kelmounj's 42 stats" /></a>
-<a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://github.com/kelmounj/badge42" alt="kelmounj's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/levi/kelmounj" alt="kelmounj's 42 stats" /></a>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
