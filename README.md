@@ -36,8 +36,8 @@
 <br/>
 
 <a href="https://github.com/banditklm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banditklm&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banditklm&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banditklm&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banditklm&theme=merko&layout=compact" />
 </a>
 
 <br/>
