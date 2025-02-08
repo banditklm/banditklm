@@ -43,6 +43,12 @@
 <br/>
 
 <br>
+
+<a href="https://stardev.io/developers/banditklm"><img alt="Check out banditklm's profile on stardev.io" src="https://stardev.io/developers/banditklm/badge/languages/global.svg" /></a>
+
+<br/>
+
+<br>
 <img width="81%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark">
 <br>
 <a  width="65%" href="https://wakatime.com/@ca942a12-1592-428e-8bf9-c8117957dc6c"><img src="https://wakatime.com/badge/user/ca942a12-1592-428e-8bf9-c8117957dc6c.svg" alt="Total time coded since Aug 12 2024" /></a>
