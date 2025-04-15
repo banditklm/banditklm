@@ -3,10 +3,10 @@
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/kelmounj" alt="kelmounj's 42 stats" /></a>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; Working as a web developer freelancer.
-- 🌱 &nbsp; Learning more about Web3.0, Blockchain and Artificial Intelligence.
+- 🤔 &nbsp; Always diving into new technologies, building creative solutions, and crafting quick hacks.
+- 🎓 &nbsp;Currently studying **Computer Science** and **Mathematics** — blending logic with creativity.
+- 💼 &nbsp; Delivering clean, responsive websites and modern web experiences.
+- 🌱 &nbsp; Passionate about learning more in **Web3**, **Blockchain**, and **Artificial Intelligence**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
