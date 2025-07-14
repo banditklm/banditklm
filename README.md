@@ -39,11 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banditklm&theme=merko&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banditklm&theme=merko&layout=compact" />
 </a>
-
 <br/>
-<a href="https://stardev.io/developers/banditklm"><img alt="Check out banditklm's profile on stardev.io" src="https://stardev.io/developers/banditklm/badge/languages/global.svg" /></a>
-<br/>
-
 <br>
 <img width="97%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark">
 <br>
