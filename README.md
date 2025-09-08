@@ -41,8 +41,11 @@
 </a>
 <br/>
 <br>
-<img width="97%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark">
-<br>
+<!-- <img width="97%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark"> -->
+<!-- <br> -->
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <a  width="100%" href="https://wakatime.com/@ca942a12-1592-428e-8bf9-c8117957dc6c"><img src="https://wakatime.com/badge/user/ca942a12-1592-428e-8bf9-c8117957dc6c.svg" alt="Total time coded since Aug 12 2024" /></a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
