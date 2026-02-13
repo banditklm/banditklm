@@ -3,10 +3,11 @@
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/kelmounj" alt="kelmounj's 42 stats" /></a>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Always diving into new technologies, building creative solutions, and crafting quick hacks.
-- 🎓 &nbsp;Currently studying **Computer Science** and **Mathematics** — blending logic with creativity.
-- 💼 &nbsp; Delivering clean, responsive websites and modern web experiences.
-- 🌱 &nbsp; Passionate about learning more in **Web3**, **Blockchain**, and **Artificial Intelligence**.
+- 🎓 &nbsp;Current Pursuit: Student at 1337 (42 Network), mastering low-level systems and modern full-stack architecture.
+- 🤔 &nbsp; Problem Solver: Deep-diving into projects like ft_transcendence and Inception—blending C/C++ logic with web creativity.
+- 💼 &nbsp; Web Specialist: Crafting responsive, modern experiences with Next.js, React, and Tailwind CSS.
+- 🌱 &nbsp; Learning: Expanding my toolkit with Docker, Microservices, and exploring the world of AI.
+- 🎮 &nbsp; Off-duty: Either defending my towers in Clash Royale or following the latest One Piece adventures.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
