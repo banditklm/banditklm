@@ -1,30 +1,36 @@
-<h2> Hey there! I'm Kaltoum Elmounjid currently a 42 Network student (1337 Khouribga campus)</h2>
+<h2> Hey there! I'm Kaltoum Elmounjid, currently a 42 Network student (1337 Khouribga campus)</h2>
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/kelmounj" alt="kelmounj's 42 stats" /></a>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp;Current Pursuit: Student at 1337 (42 Network), mastering low-level systems and modern full-stack architecture.
-- 🤔 &nbsp; Problem Solver: Deep-diving into projects like ft_transcendence and Inception—blending C/C++ logic with web creativity.
-- 💼 &nbsp; Web Specialist: Crafting responsive, modern experiences with Next.js, React, and Tailwind CSS.
-- 🌱 &nbsp; Learning: Expanding my toolkit with Docker, Microservices, and exploring the world of AI.
-- 🎮 &nbsp; Off-duty: Either defending my towers in Clash Royale or following the latest One Piece adventures.
+- 🎓 &nbsp;Current Pursuit: Computer Science & Mathematics student at 1337 (42 Network), mastering low-level systems and modern full-stack architecture.
+- 🤔 &nbsp;Problem Solver: Deep-diving into the 42 curriculum with projects like `ft_transcendence` (a full-stack Social platform) and building robust infrastructure in `Inception`.
+- 💼 &nbsp;Web Specialist & Freelancer: Crafting responsive, modern web applications and real-world solutions (like restaurant inventory systems) using Next.js, React, Supabase, and Tailwind CSS.
+- 🌱 &nbsp;Learning: Expanding my toolkit with Docker, Microservices, and exploring the world of AI.
+- 🎮 &nbsp;Off-duty: Hitting the gym, strategizing my way to Master II in Clash Royale, or following the latest One Piece adventures with my favorite character, Luffy.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=8993be)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![C](https://img.shields.io/badge/-333333?style=flat&logo=c)
-  ![C++](https://img.shields.io/badge/-++-333333?style=flat&logo=c)
   ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
 - 🌐 &nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=3ECF8E)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
@@ -42,12 +48,10 @@
 </a>
 <br/>
 <br>
-<!-- <img width="97%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark"> -->
-<!-- <br> -->
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a  width="100%" href="https://wakatime.com/@ca942a12-1592-428e-8bf9-c8117957dc6c"><img src="https://wakatime.com/badge/user/ca942a12-1592-428e-8bf9-c8117957dc6c.svg" alt="Total time coded since Aug 12 2024" /></a>
+<a width="100%" href="https://wakatime.com/@ca942a12-1592-428e-8bf9-c8117957dc6c"><img src="https://wakatime.com/badge/user/ca942a12-1592-428e-8bf9-c8117957dc6c.svg" alt="Total time coded since Aug 12 2024" /></a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
