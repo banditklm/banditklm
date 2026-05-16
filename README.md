@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp;Current Pursuit: Computer Science & Mathematics student at 1337 (42 Network), mastering low-level systems and modern full-stack architecture.
 - 🤔 &nbsp;Problem Solver: Deep-diving into the 42 curriculum with projects like `ft_transcendence` (a full-stack Social platform) and building robust infrastructure in `Inception`.
-- 💼 &nbsp;Web Specialist & Freelancer: Crafting responsive, modern web applications and real-world solutions (like restaurant inventory systems) using Next.js, React, Supabase, and Tailwind CSS.
+- 💼 &nbsp;Web Specialist & Freelancer: Crafting responsive, modern web applications and real-world solutions using Next.js, React, Supabase, and Tailwind CSS.
 - 🌱 &nbsp;Learning: Expanding my toolkit with Docker, Microservices, and exploring the world of AI.
 - 🎮 &nbsp;Off-duty: Hitting the gym, strategizing my way to Master II in Clash Royale, or following the latest One Piece adventures with my favorite character, Luffy.
 
